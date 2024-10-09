@@ -1,5 +1,6 @@
 # Laboratorio2
 Integrantes: Mariana Guerrero, Jonathan Castellanos.
+
 Optimización 2184.
 
 Si ejecuta el codigo en Visual Studio, o parecido, instala toda las libreria que se encuentra en "requirements.txt"
